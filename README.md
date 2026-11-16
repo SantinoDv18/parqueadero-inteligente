@@ -198,9 +198,7 @@ Conteos (TP / TN / FP / FN) a 0.35: 60 / 25 / 13 / 10 sin suavizado y 61 / 25 / 
 
 ## Datos y evidencias
 
-- **Videos propios, videos de resultado y evidencias:** [ENLACE A LA CARPETA DE DRIVE]
-- **Video demo (máx. 5 min):** [ENLACE]
-- **Informe del avance 2:** [ENLACE]
+- **Videos propios, videos de resultado y evidencias:** https://drive.google.com/drive/folders/1X0RpPLJgt4DQQpyMyEuy3ok84dg-SflE?usp=drive_link
 
 Los videos no están en el repositorio porque pesan decenas de MB y muestran placas y personas.
 
